@@ -16,7 +16,7 @@ setup(
     license='MIT',
     install_requires=[
         'pyjwt==0.1.9',
-        'requests==2.2.1',
+        'requests==2.31.0',
         'suds==0.4',
     ],
     classifiers=[
